@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Jayden Ngo`
+- **CCID:** `jdngo`
 
 ## References and Resources
 
